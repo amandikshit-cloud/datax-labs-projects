@@ -1,0 +1,29 @@
+﻿product_id,product_name,category,supplier_id,retail_price
+1,Stovetop,Home,44,199.87
+2,Dining table,Home,10,215.84
+3,Dinner set,Home,11,192.07
+4,Rug,Home,6,64.14
+5,Recliner,Home,3,108.06
+6,Mattress,Home,34,73.81
+7,Handbag,Beauty,31,77.21
+8,Lipstick,Beauty,3,468.14
+9,Rouge,Beauty,19,494.58
+10,Perfume,Beauty,43,457.75
+11,Serum,Beauty,34,471.73
+12,Television,Electronics,50,211.85
+13,Sound system,Electronics,31,73.17
+14,Vacuum cleaner,Electronics,39,68.47
+15,Refrigerator,Electronics,23,234.0
+16,Air conditioner,Electronics,49,198.73
+17,PlayStation,Electronics,42,415.55
+18,Jeans,Clothing,48,299.91
+19,Suits,Clothing,26,277.49
+20,Overcoat,Clothing,8,380.42
+21,Hat,Clothing,43,120.53
+22,Jacket,Clothing,44,248.4
+23,Shirts,Clothing,22,374.81
+24,Sneakers,Sports,46,471.33
+25,Trackpants,Sports,26,361.41
+26,Sweatshirts,Sports,38,453.26
+27,Racquet,Sports,8,231.99
+28,Gloves,Sports,22,93.59
